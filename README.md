@@ -1,6 +1,4 @@
-# Articles-from-opensource.com
-
-## Collection of various interesting tech articles found on **[opensource.com](https://opensource.com)**
+# Collection of various interesting tech articles found on **[opensource.com](https://opensource.com)**
 
 ### ANSIBLE
 
