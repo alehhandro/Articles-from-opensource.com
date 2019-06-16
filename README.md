@@ -14,7 +14,18 @@
 ### HARDWARE & HOMELAB
 
 * [Hardware bootstrapping with Ansible](https://opensource.com/article/19/5/hardware-bootstrapping-ansible)
+* [A data-centric approach to patching systems with Ansible](https://opensource.com/article/19/6/patching-systems-ansible)
+
+### DEV-OPS
+
+* [Defining DevOps in layers](https://opensource.com/article/19/5/defining-devops-layers)
+* [Why hypothesis-driven development is key to DevOps](https://opensource.com/article/19/6/why-hypothesis-driven-development-devops)
+* [A beginner's guide to building DevOps pipelines with open source tools](https://opensource.com/article/19/4/devops-pipeline)
+
+
 
 ### OTHERS
 
 * [Querying 10 years of GitHub data with GHTorrent and Libraries.io](https://opensource.com/article/19/5/chaossearch-github-ghtorrent)
+* [Serverless load tests for replaying production traffic](https://opensource.com/article/19/3/shadowreader-serverless)
+
